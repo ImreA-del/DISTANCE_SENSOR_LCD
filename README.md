@@ -6,15 +6,15 @@ The goal of this project was to use an ultrasonic distance sensor to measure the
 What You’ll Need
 - You can use parts from the Arduino Uno R3 Super Starter Kit or get them separately:
 
-x1 Arduino Uno R3
-x1 HC-SR04 Ultrasonic Sensor
-x1 16x2 LCD Display (with Hitachi HD44780 or compatible driver)
-x1 10K Resistor or Potentiometer (for LCD contrast control — I used a resistor)
-x1 Solderless Breadboard
-x1 220 Ohm Resistor (for LCD backlight control, optional)
-x1 USB cable (for power and uploading code)
-x10 Jumper Wires (Male-to-Male)
-x4 Jumper Wires (Female-to-Male)
+- x1 Arduino Uno R3
+- x1 HC-SR04 Ultrasonic Sensor
+- x1 16x2 LCD Display (with Hitachi HD44780 or compatible driver)
+- x1 10K Resistor or Potentiometer (for LCD contrast control — I used a resistor)
+- x1 Solderless Breadboard
+- x1 220 Ohm Resistor (for LCD backlight control, optional)
+- x1 USB cable (for power and uploading code)
+- x10 Jumper Wires (Male-to-Male)
+- x4 Jumper Wires (Female-to-Male)
 
 Wiring for LCD1602
 - RS -> Pin 12
