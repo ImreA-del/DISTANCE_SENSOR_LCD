@@ -4,7 +4,7 @@ This is my second project using the Arduino Uno R3.
 The goal of this project was to use an ultrasonic distance sensor to measure the distance of objects in front of it and display that value on a 16x2 LCD screen in real-time.
 
 What You’ll Need
-You can use parts from the Arduino Uno R3 Super Starter Kit or get them separately:
+- You can use parts from the Arduino Uno R3 Super Starter Kit or get them separately:
 
 x1 Arduino Uno R3
 x1 HC-SR04 Ultrasonic Sensor
