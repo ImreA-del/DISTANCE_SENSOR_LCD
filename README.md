@@ -17,23 +17,23 @@ x10 Jumper Wires (Male-to-Male)
 x4 Jumper Wires (Female-to-Male)
 
 Wiring for LCD1602
-RS -> Pin 12
-E -> Pin 11
-D4 -> Pin 5
-D5 -> Pin 4
-D6 -> Pin 3
-D7 -> Pin 2
-VSS -> GND
-VDD -> 5V
-VO -> 10K resistor to GND (for contrast)
-A (LED+) -> 5V (through 220Ω resistor)
-K (LED−) -> GND
+- RS -> Pin 12
+- E -> Pin 11
+- D4 -> Pin 5
+- D5 -> Pin 4
+- D6 -> Pin 3
+- D7 -> Pin 2
+- VSS -> GND
+- VDD -> 5V
+- VO -> 10K resistor to GND (for contrast)
+- A (LED+) -> 5V (through 220Ω resistor)
+- K (LED−) -> GND
 
 Wiring for HC-SRO4
-VCC -> 5V
-GND -> GND
-TRIG -> Digital Pin 9
-ECHO ->  Digital Pin 10
+- VCC -> 5V
+- GND -> GND
+- TRIG -> Digital Pin 9
+- ECHO ->  Digital Pin 10
 
 What the code does 
 - Sends out an ultrasonic pulse using the HC-SR04
